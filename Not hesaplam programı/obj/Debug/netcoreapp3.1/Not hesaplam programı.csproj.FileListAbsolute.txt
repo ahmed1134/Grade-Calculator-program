@@ -1,0 +1,16 @@
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\bin\Debug\netcoreapp3.1\Not hesaplam programı.exe
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\bin\Debug\netcoreapp3.1\Not hesaplam programı.deps.json
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\bin\Debug\netcoreapp3.1\Not hesaplam programı.runtimeconfig.json
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\bin\Debug\netcoreapp3.1\Not hesaplam programı.runtimeconfig.dev.json
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\bin\Debug\netcoreapp3.1\Not hesaplam programı.dll
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\bin\Debug\netcoreapp3.1\Not hesaplam programı.pdb
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\obj\Debug\netcoreapp3.1\Not hesaplam programı.csproj.AssemblyReference.cache
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\obj\Debug\netcoreapp3.1\Not_hesaplam_programı.Form1.resources
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\obj\Debug\netcoreapp3.1\Not hesaplam programı.csproj.GenerateResource.cache
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\obj\Debug\netcoreapp3.1\Not hesaplam programı.GeneratedMSBuildEditorConfig.editorconfig
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\obj\Debug\netcoreapp3.1\Not hesaplam programı.AssemblyInfoInputs.cache
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\obj\Debug\netcoreapp3.1\Not hesaplam programı.AssemblyInfo.cs
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\obj\Debug\netcoreapp3.1\Not hesaplam programı.csproj.CoreCompileInputs.cache
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\obj\Debug\netcoreapp3.1\Not hesaplam programı.dll
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\obj\Debug\netcoreapp3.1\Not hesaplam programı.pdb
+E:\yazılım projeleri\Not hesaplam programı\Not hesaplam programı\obj\Debug\netcoreapp3.1\Not hesaplam programı.genruntimeconfig.cache
